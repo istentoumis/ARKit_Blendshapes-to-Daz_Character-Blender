@@ -24,7 +24,7 @@ Select all the ARKit Blendshapes:
 
 Hit Accept and import to Blender.
 
-Right-click on each Blenshashape and click on "Delete Driver". 
+On Blender, right-click on each Blenshashape and click on "Delete Driver". 
 
 ![image](https://user-images.githubusercontent.com/88091497/197338550-a33d3eff-b1f9-4b8f-a732-940c6527033f.png)
 
