@@ -34,4 +34,4 @@ Make sure the frame is on 0. Right click on each blendshape and select "Insert K
 
 ![image](https://user-images.githubusercontent.com/88091497/197338644-4d37e250-0c10-4ca6-9c07-ce484d6d0a94.png)
 
-Copy all the keyframes of the facial animation and paste them in the Daz character and set the length of the animation to the desired value.
+Copy all the keyframes of the facial animation, paste them in the Daz character and set the length of the animation to the desired value.
